@@ -30,8 +30,6 @@ $ git push heroku master
 - templating engine: handlebars
 - database: MongoDB
 
-## Links
 
-- Repository: https://github.com/jamesbarker585/scraper/
-- Deployed site: https://scraper-uft.herokuapp.com/
+
 
